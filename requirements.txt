@@ -1,9 +1,6 @@
 fastapi
-uvicorn
-joblib
-scikit-learn
-underthesea 
-re
-string
 pandas
-numpy
+scikit-learn
+joblib
+uvicorn
+underthesea
