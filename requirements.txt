@@ -4,3 +4,4 @@ scikit-learn
 joblib
 uvicorn
 underthesea
+jinja2
