@@ -5,3 +5,4 @@ joblib
 uvicorn
 underthesea
 jinja2
+python-multipart
