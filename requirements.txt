@@ -3,3 +3,7 @@ uvicorn
 joblib
 scikit-learn
 underthesea 
+re
+string
+pandas
+numpy
